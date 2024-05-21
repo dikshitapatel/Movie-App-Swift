@@ -8,10 +8,12 @@
 import SwiftUI
 
 @main
-struct myMovieListAppApp: App {
+struct myMovieListApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
     }
+        
 }
+

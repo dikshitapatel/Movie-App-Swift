@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "928572B9-DB0C-450C-913D-FF3D8F1F2074"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E62AC6C1-CCBA-4F15-A62E-B855998124C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMovieListApp/MyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E62AC6C1-CCBA-4F15-A62E-B855998124C5 - dbbe4f3a34c86ef7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myMovieListApp.MyTableViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/MyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1588">
+               </Location>
+               <Location
+                  uuid = "E62AC6C1-CCBA-4F15-A62E-B855998124C5 - dbbe4f3a34c86ef7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "myMovieListApp.MyTableViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/MyTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4E8B388-A8E5-4E03-B4A8-94C747C4777F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMovieListApp/MyTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5248D97-7854-4281-B3BA-2B4297122642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMovieListApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D5248D97-7854-4281-B3BA-2B4297122642 - 4445835d308fe023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;myMovieListApp.MovieDetailView, myMovieListApp.myMovieListView&gt; in myMovieListApp.ContentView.body.getter : some"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "D5248D97-7854-4281-B3BA-2B4297122642 - 4445835d308fe023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;myMovieListApp.MovieDetailView, myMovieListApp.myMovieListView&gt; in myMovieListApp.ContentView.body.getter : some"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "D5248D97-7854-4281-B3BA-2B4297122642 - 4445835d308fe023"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;myMovieListApp.MovieDetailView, myMovieListApp.myMovieListView&gt; in myMovieListApp.ContentView.body.getter : some"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "1508">
+               </Location>
+               <Location
+                  uuid = "D5248D97-7854-4281-B3BA-2B4297122642 - aac6f7e83cf8287f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (myMovieListApp.MovieInfo) -&gt; Swift.Bool in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;myMovieListApp.MovieDetailView, myMovieListApp.myMovieListView&gt; in myMovieListApp.ContentView.body.getter : some"
+                  moduleName = "myMovieListApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dikshipatel/Desktop/MAP/03_Proj_Patel_Dikshita/myMovieListApp/myMovieListApp/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "298BB445-87D1-481D-91C9-07858825D8C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMovieListApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93EB6D75-668C-4177-B842-987BF9A98C9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "myMovieListApp/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

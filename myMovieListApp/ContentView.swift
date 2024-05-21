@@ -2,23 +2,21 @@
 //  ContentView.swift
 //  myMovieListApp
 //
-//  Created by Dikshita Rajendra Patel on 27/02/24.
+//  Created by Dikshita Rajendra Patel on 29/03/24.
 //
 
+import Foundation
 import SwiftUI
-
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @StateObject private var viewModel = MovieViewModel()
 
-#Preview {
-    ContentView()
+    var body: some View {
+        NavigationView {
+            if let lastViewedMovieId = viewModel.getLastSelectedMovieId(), let movie = viewModel.movies.first(where: { $0.id == lastViewedMovieId }) {
+                MovieDetailView(movieId: movie.id)
+            } else {
+                myMovieListView()
+            }
+        }
+    }
 }
